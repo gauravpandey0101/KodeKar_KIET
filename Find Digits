@@ -14,7 +14,8 @@ int main()
             while(n>0)
             {
                 temp = n%10;
-                if(temp == 0 ){
+                if(temp == 0 )
+                {
                      n /= 10;
                     continue;
                 }
