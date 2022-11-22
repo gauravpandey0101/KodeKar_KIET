@@ -2,7 +2,8 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-int main() {
+int main()
+{
     int t,n,temp,count,num;
     scanf("%d",&t);
     while(t--){
