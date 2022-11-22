@@ -6,7 +6,8 @@ int main()
 {
     int t,n,temp,count,num;
     scanf("%d",&t);
-    while(t--){
+    while(t--)
+    {
         count=0;
         scanf("%d",&n);
         num = n;
