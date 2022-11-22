@@ -11,7 +11,8 @@ int main()
         count=0;
         scanf("%d",&n);
         num = n;
-            while(n>0){
+            while(n>0)
+            {
                 temp = n%10;
                 if(temp == 0 ){
                      n /= 10;
